@@ -1,2 +1,2 @@
 # Banakong
-A 2D Game Made from scratch .
+A 2D game made from scratch .
